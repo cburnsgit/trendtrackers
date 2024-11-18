@@ -3,5 +3,4 @@ Pandas
 BeautifulSoup4
 lxml
 yfinance
-matplotlib.pyplot
-matplotlib.ticker
+matplotlib
